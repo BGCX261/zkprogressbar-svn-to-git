@@ -1,0 +1,12 @@
+<language-addon>
+	<addon-name>progressbar</addon-name>
+	<language-name>xul/html</language-name>
+	
+	<component>
+		<component-name>progressbar</component-name>
+		<component-class>org.zkoss.progressbar.Progressbar</component-class>
+		<widget-class>progressbar.Progressbar</widget-class>
+	</component>
+	
+	<stylesheet href="~./js/progressbar/ext/css/ui-lightness/jquery-ui-1.8rc3.custom.css" type="text/css" />
+</language-addon>
